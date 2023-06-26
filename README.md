@@ -147,50 +147,7 @@ We are CurlyDevelopers
 </p>
 
 
-
-## 📊 Github stats
-
-
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img alt="Yessur3808's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CurlyDevelopers852&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=404249&title_color=F85D7F&icon_color=78F866&hide=Jupyter%20Notebook" height="212px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
-
-![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=CurlyDevelopers852&show_icons=true&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CurlyDevelopers852)](https://git.io/streak-stats)
-
-
-
-	    
-
-<a href="http://www.github.com/sharathkrml"><img src="https://activity-graph.herokuapp.com/graph?username=CurlyDevelopers852&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CurlyDevelopers852&theme=dark&hide_border=true"/>
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=CurlyDevelopers852&show_icons=true&theme=tokyonight" 
-/>
-
-
-
-<br/><br/><br/><br/>
-
-
-<hr/>
-
-
-<!-- ## 🫂 How to help & support me ## -->
-<!--  <p align="center"> -->
-<!-- <a href="https://www.buymeacoffee.com/curlycoffee3808" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a> -->
-<!-- <a href="https://ko-fi.com/curlycoffee3808"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="150" alt="curlycoffee3808" /></a> -->
-<!-- <a href="https://www.buymeacryptocoffee.xyz/0x0a60e1c190295bfaf093f2df00fa9b6c05507206" target="_blank"><img align="left" src="https://www.buymeacryptocoffee.xyz/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2Fembedbadge.c3d8c4bf5cf54409f43e2107e550bb11.svg&w=256&q=75" alt="Buy Me A Crypto Coffee" width="150" ></a> -->
-<!-- <a href="https://coindrop.to/curlycoffee3808" target="_blank"><img align="left" src="https://coindrop.to/embed-button.png" width="150" alt="Coindrop.to me"></img></a> -->
-<!-- </p> -->
-<!-- <br/><br/> -->
-																      
+														      
 
 <h6 align="left">
     Made by CurlyDevelopers
